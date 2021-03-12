@@ -1,0 +1,23 @@
+
+* {
+    background-color: linen;
+    font-size: 1rem;
+}
+
+
+
+@media screen and (max-width: 1000px) {
+    * {
+        background-color: lightseagreen;
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    * {
+        background-color: lightpink;
+        font-size: 1rem;
+    }
+}
+
+
